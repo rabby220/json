@@ -1,0 +1,27 @@
+{
+  "items" : [
+    {
+      "name": "Fajla Rabby",
+      "district": "Dinajpur"
+
+    },
+
+    {
+      "name": "Yamin Islam",
+      "district": "Phulbari"
+
+    },
+
+    {
+      "name": "Azizul Islam",
+      "district": "Barapukuria"
+
+    },
+
+    {
+      "name": "Rani Parvin",
+      "district": "Joypurhat"
+    }
+
+  ]
+}
